@@ -3,7 +3,7 @@
 ![](https://github.com/Michaelndula/Feedback-Application/blob/main/img/feedback.PNG?raw=true)
 This is a small project I did when learning PHP.
 
-* What his project is all about *
+### What his project is all about
 
 - Getting feedback from users using the frontend form
 - posting the feedback in the database
